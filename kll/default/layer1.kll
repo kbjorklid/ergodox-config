@@ -1,0 +1,150 @@
+Name = "KB-Default-Layer1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Kalle Björklid";
+KLL = "0.3c";
+Date = "2016-05-07";
+Generator = "KIICONF 0.2";
+
+# =========
+# LEFT SIDE
+# =========
+
+# FIRST ROW
+U"EQUALS" : U"EQUALS";
+U"1" : U"F1";
+U"2" : U"F2";
+U"3" : U"F3";
+U"4" : U"F4";
+U"5" : U"F5";
+U"ESC" : U"F11";
+
+# SECOND ROW
+#U"BACKSLASH" : U"TAB";
+U"Q" : U"BACKLASH";          # single quote
+U"W" : U"LShift" + U"2";     # Double quote
+U"E" : U"RAlt"  + U"2";      # @
+U"R" : U"RAlt" + U"4";       # $
+U"T" : U"LShift" + U"EQUALS", U"SPACE";  # backtick
+# First tall button
+#U"FUNCTION1" : U"LCK1";
+
+# THIRD ROW
+U"TAB" : U"FUN2";
+U"A" : U"RAlt" + U"8";       # [
+U"S" : U"RAlt" + U"9";       # ]
+U"D" : U"LShift" + U"8";     # (
+U"F" : U"LShift" + U"9";     # )
+U"G" : U"RAlt", + U"ISO/";   # |
+
+# FOURTH ROW
+# U"LSHIFT" : U"LSHIFT";
+# U"Z" : U"Z";
+# U"X" : U"X";
+# U"C" : U"C";
+# U"V" : U"V";
+# U"B" : U"B";
+# Second tall button
+# U"FUNCTION2" : U"LSHIFT" + U"LCTRL" + U"LALT";
+
+# FIFTH ROW
+# U"LGUI" : U"LCTRL";
+# U"BACKTICK" : U"LGUI";
+# U"FUNCTION3" : U"LALT";
+# U"FUNCTION4" : U"LALT" + U"LCTRL";
+# U"FUNCTION5" : U"HOME";
+
+#THUMB CLUSTER
+#     +---+---+
+#     | c | d |
+# +---+---+---+
+# |   |   | e |
+# | A | B +---+
+# |   |   | f |
+# +---+---+---+
+# A
+# U"BACKSPACE" : U"LSHIFT";
+# B
+# U"DELETE" : U"FUN1";
+# c
+# U"LCTRL" : U"HOME";
+# d
+# U"LALT" : U"END";
+# e
+# U"HOME" : U"LSHIFT";
+# f
+# U"END" : U"LCTRL";
+
+# ==========
+# RIGHT SIDE
+# ==========
+
+# FIRST ROW
+U"FUNCTION6" : U"F12";
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F0";
+#U"MINUS" : U"MINUS";
+
+
+# SECOND ROW
+# First tall button
+U"LBRACE" : U"DELETE";
+#U"Y" : U"Y";
+U"U" : U"SLASH";
+U"I" : U"BACKSLASH";
+#U"O" : U"O";
+#U"P" : U"P";
+U"RBRACE" : U"RALT" + U"RBRACE", U"SPACE";
+
+
+# THIRD ROW
+U"H" : U"LShift" + U"0";
+U"J" : U"RAlt" + U"7";
+U"K" : U"RAlt" + U"0";
+U"L" : U"LShift" + U"ISO/";
+U"SEMICOLON" : U"ISO/";
+#U"QUOTE" : U"QUOTE";
+
+
+# FOURTH ROW
+# Second tall button
+#U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
+#U"N" : U"N";
+#U"M" : U"M";
+#U"COMMA" : U"COMMA";
+#U"PERIOD" : U"PERIOD";
+#U"SLASH" : U"SLASH";
+#U"RSHIFT" : U"RSHIFT";
+
+# FIFTH ROW
+#U"LEFT" : U"END";
+#U"DOWN" : U"LALT" + U"LCTRL";
+#U"UP" : U"RALT";
+#U"RIGHT" : U"RIGHT";
+#U"RGUI" : U"RGUI";
+
+#THUMB CLUSTER
+# +---+---+
+# | d | c |
+# +---+---+---+
+# | e |   |   |
+# +---+ B | A |
+# | f |   |   |
+# +---+---+---+
+# A
+U"SPACE" : U"END", U"SPACE";
+# B
+U"ENTER" : U"END", U"ENTER";
+# c
+#U"RCTRL" : U"PAGEDOWN";
+# d
+#U"RALT" : U"PAGEUP";
+# e
+#U"PAGEUP" : U"LSHIFT";
+# f
+#U"PAGEDOWN" : U"LALT";
+
