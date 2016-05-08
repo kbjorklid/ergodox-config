@@ -86,19 +86,19 @@ Generator = "KIICONF 0.2";
 # U"7" : U"7";
 # U"8" : U"8";
 # U"9" : U"9";
-U"0" : CON"Play";
-U"MINUS" : CON"VolumeUp";
+U"0" : CONS"Play"; #Play
+U"MINUS" : CONS"VolumeUp";
 
 
 # SECOND ROW
 # First tall button
-U"LBRACE" : U"BACKSPACE";
+#U"LBRACE" : U"BACKSPACE";
 U"Y" : U"Home";
 U"U" : U"PageUp";
 U"I" : U"PageDown";
 U"O" : U"End";
-U"P" : CON"Pause";
-U"RBRACE" : CON"VolumeDown";
+U"P" : CONS"Pause";
+U"RBRACE" : CONS"VolumeDown";
 
 
 # THIRD ROW
@@ -107,7 +107,7 @@ U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
 #U"SEMICOLON" : U"SEMICOLON";
-U"QUOTE" : CON"SpeakerMute";
+U"QUOTE" : CONS"Mute";
 
 
 # FOURTH ROW

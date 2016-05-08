@@ -22,7 +22,7 @@ U"ESC" : U"F11";
 
 # SECOND ROW
 #U"BACKSLASH" : U"TAB";
-U"Q" : U"BACKLASH";          # single quote
+U"Q" : U"BACKSLASH";          # single quote
 U"W" : U"LShift" + U"2";     # Double quote
 U"E" : U"RAlt"  + U"2";      # @
 U"R" : U"RAlt" + U"4";       # $
@@ -31,12 +31,12 @@ U"T" : U"LShift" + U"EQUALS", U"SPACE";  # backtick
 #U"FUNCTION1" : U"LCK1";
 
 # THIRD ROW
-U"TAB" : U"FUN2";
+#U"TAB" : U"FUN2";
 U"A" : U"RAlt" + U"8";       # [
 U"S" : U"RAlt" + U"9";       # ]
 U"D" : U"LShift" + U"8";     # (
 U"F" : U"LShift" + U"9";     # )
-U"G" : U"RAlt", + U"ISO/";   # |
+U"G" : U"RAlt" + U"ISO/";    # |
 
 # FOURTH ROW
 # U"LSHIFT" : U"LSHIFT";
@@ -60,9 +60,9 @@ U"G" : U"RAlt", + U"ISO/";   # |
 #     | c | d |
 # +---+---+---+
 # |   |   | e |
-# | A | B +---+
+# | A | B .---.
 # |   |   | f |
-# +---+---+---+
+# +---+---+---h
 # A
 # U"BACKSPACE" : U"LSHIFT";
 # B
@@ -86,7 +86,7 @@ U"6" : U"F6";
 U"7" : U"F7";
 U"8" : U"F8";
 U"9" : U"F9";
-U"0" : U"F0";
+U"0" : U"F10";
 #U"MINUS" : U"MINUS";
 
 

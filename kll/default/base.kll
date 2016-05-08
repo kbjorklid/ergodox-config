@@ -31,7 +31,7 @@ U"T" : U"T";
 U"FUNCTION1" : U"LCK1";
 
 # THIRD ROW
-U"TAB" : U"FUN2";
+#U"TAB" : U"FUN2";
 U"A" : U"A";
 U"S" : U"S";
 U"D" : U"D";
