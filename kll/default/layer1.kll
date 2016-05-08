@@ -94,19 +94,19 @@ U"0" : U"F10";
 # First tall button
 U"LBRACE" : U"DELETE";
 #U"Y" : U"Y";
-U"U" : U"SLASH";
-U"I" : U"BACKSLASH";
+U"U" : U"RShift" + U"7";     # /
+U"I" : U"RAlt" + U"MINUS";   # \
 #U"O" : U"O";
 #U"P" : U"P";
 U"RBRACE" : U"RALT" + U"RBRACE", U"SPACE";
 
 
 # THIRD ROW
-U"H" : U"LShift" + U"0";
-U"J" : U"RAlt" + U"7";
-U"K" : U"RAlt" + U"0";
-U"L" : U"LShift" + U"ISO/";
-U"SEMICOLON" : U"ISO/";
+U"H" : U"LShift" + U"0";          # =
+U"J" : U"RAlt" + U"7";            # {
+U"K" : U"RAlt" + U"0";            # }
+U"L" : U"ISO/";                   # <
+U"SEMICOLON" : U"LShift" U"ISO/"; # >
 #U"QUOTE" : U"QUOTE";
 
 
