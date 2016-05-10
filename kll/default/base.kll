@@ -1,4 +1,4 @@
-Name = "KB-Default-Layer1";
+Name = "KB-Base-Layer";
 Layout = "Default";
 Base = "Blank";
 Version = "0.1";
@@ -52,7 +52,7 @@ U"FUNCTION2" : U"LSHIFT" + U"LCTRL" + U"LALT";
 U"LGUI" : U"LCTRL";
 U"BACKTICK" : U"LGUI";
 U"FUNCTION3" : U"LALT";
-U"FUNCTION4" : U"LALT" + U"LCTRL";
+U"FUNCTION4" : U"LCTRL" + U"LALT";
 U"FUNCTION5" : U"HOME";
 
 #THUMB CLUSTER
@@ -122,10 +122,10 @@ U"RSHIFT" : U"RSHIFT";
 
 # FIFTH ROW
 U"LEFT" : U"END";
-U"DOWN" : U"LALT" + U"LCTRL";
+U"DOWN" : U"LCTRL" + U"LALT";
 U"UP" : U"RALT";
-U"RIGHT" : U"RIGHT";
-U"RGUI" : U"RGUI";
+U"RIGHT" : U"RGUI";
+U"RGUI" : U"RCTRL";
 
 #THUMB CLUSTER
 # +---+---+
