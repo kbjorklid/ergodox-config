@@ -39,14 +39,14 @@ U"F" : U"F";
 U"G" : U"G";
 
 # FOURTH ROW
-U"LSHIFT" : U"LSHIFT";
+U"LSHIFT" : None;
 U"Z" : U"Z";
 U"X" : U"X";
 U"C" : U"C";
 U"V" : U"V";
 U"B" : U"B";
 # Second tall button
-U"FUNCTION2" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"FUNCTION2" : U"FUN3";
 
 # FIFTH ROW
 U"LGUI" : U"LCTRL";
@@ -118,7 +118,7 @@ U"M" : U"M";
 U"COMMA" : U"COMMA";
 U"PERIOD" : U"PERIOD";
 U"SLASH" : U"SLASH";
-U"RSHIFT" : U"RSHIFT";
+U"RSHIFT" : None;
 
 # FIFTH ROW
 U"LEFT" : U"END";

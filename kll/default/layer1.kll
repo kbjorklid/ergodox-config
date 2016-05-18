@@ -22,31 +22,30 @@ U"ESC" : U"F11";
 
 # SECOND ROW
 #U"BACKSLASH" : U"TAB";
-U"Q" : U"BACKSLASH";          # single quote
-U"W" : U"LShift" + U"2";     # Double quote
-U"E" : U"RAlt"  + U"2";      # @
-U"R" : U"RAlt" + U"4";       # $
-U"T" : U"LShift" + U"EQUALS", U"SPACE";  # backtick
+U"Q" : U"LShift" + U"1";                    # !
+U"W" : U"LShift" + U"3";                    # #
+U"E" : U"RAlt"  + U"7";                     # {
+U"R" : U"RAlt" + U"0";                      # }
+U"T" : U"BACKSLASH";                        # '
 # First tall button
 #U"FUNCTION1" : U"LCK1";
 
 # THIRD ROW
 #U"TAB" : U"FUN2";
-U"A" : U"ISO/";              # <
-U"S" : U"RAlt" + U"8";       # [
-U"D" : U"RAlt" + U"7";       # {
-U"F" : U"LShift" + U"8";     # (
-U"G" : U"LShift" + U"2";     # "
+U"A" : U"RAlt" + U"2";                      # @
+U"S" : U"RAlt" + U"4";                      # $
+U"D" : U"LShift" + U"8";                    # (
+U"F" : U"LShift" + U"9";                    # )
+U"G" : U"LShift" + U"2";                    # "
 
 # FOURTH ROW
 # U"LSHIFT" : U"LSHIFT";
-# U"Z" : U"Z";
-# U"X" : U"X";
-U"C" : U"LShift" + U"6";     # &
-U"V" : U"RAlt" + U"ISO/";    # |
-# U"B" : U"B";
-# Second tall button
-# U"FUNCTION2" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"Z" : U"ISO/";                             # <
+U"X" : U"LShift" + U"ISO/";                 # >
+U"C" : U"RAlt" + U"8";                      # [
+U"V" : U"RAlt" + U"9";                      # ]
+U"B" : U"LShift" + U"EQUALS", U"SPACE";     # backtick
+# U"FUNCTION2" : U"FUN3";
 
 # FIFTH ROW
 # U"LGUI" : U"LCTRL";
@@ -87,36 +86,36 @@ U"7" : U"F7";
 U"8" : U"F8";
 U"9" : U"F9";
 U"0" : U"F10";
-#U"MINUS" : U"MINUS";
+U"MINUS" : U"LCtrl" + U"S", U"RAlt" + U"8";
 
 
 # SECOND ROW
 # First tall button
 U"LBRACE" : U"DELETE";
-#U"Y" : U"Y";
-U"U" : U"RShift" + U"7";     # /
-U"I" : U"RAlt" + U"MINUS";   # \
-#U"O" : U"O";
-#U"P" : U"P";
-U"RBRACE" : U"RALT" + U"RBRACE", U"SPACE";
+U"Y" : U"RAlt" + U"ISO/";                       # |
+U"U" : U"RShift" + U"7";                        # /
+U"I" : U"RAlt" + U"MINUS";                      # \
+U"O" : U"RALT" + U"RBRACE", U"SPACE";           # ~
+U"P" : U"RShift" + U"RBRACE", U"SPACE";         # ^
+#U"RBRACE" : U"RALT" + U"RBRACE", U"SPACE";
 
 
 # THIRD ROW
-U"H" : U"BACKSLASH";                  # single quote
-U"J" : U"RShift" + U"9";              # )
-U"K" : U"RAlt" + U"0";                # }
-U"L" : U"RAlt" + U"9";                # ]
-U"SEMICOLON" : U"LShift" + U"ISO/";   # >
-U"QUOTE" : U"LShift" + U"BACKSLASH";  # *
+U"H" : U"LEFT";
+U"J" : U"DOWN";
+U"K" : U"UP";
+U"L" : U"RIGHT";
+U"SEMICOLON" : U"LShift" + U"BACKSLASH";  # *
+U"QUOTE" : U"LShift" + U"BACKSLASH";      # *
 
 
 
 # FOURTH ROW
 # Second tall button
-#U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
-#U"N" : U"N";
-#U"M" : U"M";
-U"COMMA" : U"END", U"LShift" + U"COMMA";         # Go to end of line then enter ;
+U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"N" : U"LSHIFT" + U"6";                        # &
+U"M" : U"LSHIFT" + U"0";                        # =
+U"COMMA" : U"END", U"LShift" + U"COMMA";        # Go to end of line then enter ;
 #U"PERIOD" : U"PERIOD";
 U"SLASH" : U"MINUS";                             # +
 #U"RSHIFT" : U"RSHIFT";
@@ -147,5 +146,3 @@ U"ENTER" : U"END", U"ENTER";
 # e
 #U"PAGEUP" : U"LSHIFT";
 # f
-#U"PAGEDOWN" : U"LALT";
-

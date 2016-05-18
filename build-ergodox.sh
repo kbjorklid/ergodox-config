@@ -33,6 +33,8 @@ DefaultMap="base lcdFuncMap"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="layer1 lcdFuncMap"
 PartialMaps[2]="layer2 lcdFuncMap"
+PartialMaps[3]="numpad lcdFuncMap"
+PartialMaps[4]="tmux lcdFuncMap"
 
 
 
