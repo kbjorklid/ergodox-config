@@ -46,7 +46,7 @@ U"C" : U"C";
 U"V" : U"V";
 U"B" : U"B";
 # Second tall button
-U"FUNCTION2" : U"FUN3";
+U"FUNCTION2" : U"HOME";
 
 # FIFTH ROW
 U"LGUI" : U"LCTRL";
@@ -112,7 +112,7 @@ U"QUOTE" : U"QUOTE";
 
 # FOURTH ROW
 # Second tall button
-U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"FUNCTION7" : U"END";
 U"N" : U"N";
 U"M" : U"M";
 U"COMMA" : U"COMMA";
@@ -140,9 +140,9 @@ U"SPACE" : U"SPACE";
 # B
 U"ENTER" : U"ENTER";
 # c
-U"RCTRL" : U"PAGEDOWN";
+U"RCTRL" : U"LCTRL" + U"S", U"RAlt" + U"8"; # CTRL-S, [
 # d
-U"RALT" : U"PAGEUP";
+U"RALT" : U"LCTRL" + U"S";
 # e
 U"PAGEUP" : U"LSHIFT";
 # f
