@@ -45,7 +45,8 @@ U"X" : U"LShift" + U"ISO/";                 # >
 U"C" : U"RAlt" + U"8";                      # [
 U"V" : U"RAlt" + U"9";                      # ]
 U"B" : U"LShift" + U"EQUALS", U"SPACE";     # backtick
-# U"FUNCTION2" : U"FUN3";
+#Second tall button
+U"FUNCTION2" : U"PAGEUP";
 
 # FIFTH ROW
 # U"LGUI" : U"LCTRL";
@@ -86,7 +87,7 @@ U"7" : U"F7";
 U"8" : U"F8";
 U"9" : U"F9";
 U"0" : U"F10";
-U"MINUS" : U"LCtrl" + U"S", U"RAlt" + U"8";
+# U"MINUS" : U"LCtrl" + U"S", U"RAlt" + U"8";
 
 
 # SECOND ROW
@@ -106,18 +107,18 @@ U"J" : U"DOWN";
 U"K" : U"UP";
 U"L" : U"RIGHT";
 U"SEMICOLON" : U"LShift" + U"BACKSLASH";  # *
-U"QUOTE" : U"LShift" + U"BACKSLASH";      # *
+U"QUOTE" :U"LShift" + U"5";      # %
 
 
 
 # FOURTH ROW
 # Second tall button
-U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"FUNCTION7" : U"PAGEDOWN";
 U"N" : U"LSHIFT" + U"6";                        # &
 U"M" : U"LSHIFT" + U"0";                        # =
 U"COMMA" : U"END", U"LShift" + U"COMMA";        # Go to end of line then enter ;
-U"PERIOD" : U"LShift" + U"MINUS";
-U"SLASH" : U"MINUS";                             # +
+U"PERIOD" : U"LShift" + U"MINUS";               # ?
+U"SLASH" : U"MINUS";                            # +
 #U"RSHIFT" : U"RSHIFT";
 
 # FIFTH ROW
@@ -140,9 +141,9 @@ U"SPACE" : U"END", U"SPACE";
 # B
 U"ENTER" : U"END", U"ENTER";
 # c
-#U"RCTRL" : U"PAGEDOWN";
+# U"RCTRL" : U"LCTRL" + U"S", U"RAlt" + U"8";  #CTRL-S, [;
 # d
-#U"RALT" : U"PAGEUP";
+# U"RALT" : U"LCTRL" + U"S";
 # e
 #U"PAGEUP" : U"LSHIFT";
 # f
