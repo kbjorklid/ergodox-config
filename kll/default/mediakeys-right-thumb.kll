@@ -1,0 +1,34 @@
+Name = "Mediakeys-right-thumb";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Kalle Björklid";
+KLL = "0.3c";
+Date = "2016-05-07";
+Generator = "KIICONF 0.2";
+
+
+# ==========
+# RIGHT SIDE
+# ==========
+
+#THUMB CLUSTER
+# +---+---+
+# | d | c |
+# +---+---+---+
+# | e |   |   |
+# +---+ B | A |
+# | f |   |   |
+# +---+---+---+
+#A
+U"SPACE" : CONS"VolumeUp";
+# B
+U"ENTER" : CONS"VolumeDown";
+# c
+U"RCTRL" : CONS"Pause";
+# d
+U"RALT" : CONS"Play";
+# e
+# U"PAGEUP" : U"LSHIFT";
+# f
+U"PAGEDOWN" : CONS"Mute";
