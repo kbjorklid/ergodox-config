@@ -28,7 +28,7 @@ U"E" : U"E";
 U"R" : U"R";
 U"T" : U"T";
 # First tall button
-U"FUNCTION1" : U"LCK1";
+#U"FUNCTION1" : U"LCK1";
 
 # THIRD ROW
 U"TAB" : U"FUN2";
