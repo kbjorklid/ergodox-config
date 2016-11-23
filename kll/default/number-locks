@@ -1,0 +1,35 @@
+Name = "KB-number-locks";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Kalle Björklid";
+KLL = "0.3c";
+Date = "2016-05-07";
+Generator = "KIICONF 0.2";
+
+# =========
+# LEFT SIDE
+# =========
+
+# FIRST ROW
+#U"EQUALS" : U"EQUALS";
+U"1" : U"LCK1";
+U"3" : U"LCK3";
+U"2" : U"LCK2";
+#U"4" : U"4";
+#U"5" : U"5";
+#U"ESC" : U"ESC";
+
+# ==========
+# RIGHT SIDE
+# ==========
+
+# FIRST ROW
+#U"FUNCTION6" : U"LCTRL" + U"S";
+#U"6" : U"6";
+#U"7" : U"7";
+#U"8" : U"8";
+#U"9" : U"9";
+#U"0" : U"0";
+#U"MINUS" : U"MINUS";
+
