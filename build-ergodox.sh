@@ -34,7 +34,7 @@ DefaultMap="base lcdFuncMap"
 PartialMaps[1]="layer1 lcdFuncMap"
 PartialMaps[2]="numbers-homerow mediakeys-right-thumb lcdFuncMap"
 PartialMaps[3]="intellij lcdFuncMap"
-PartialMaps[4]="tmux lcdFuncMap"
+PartialMaps[4]="function-keys lcdFuncMap"
 
 
 
