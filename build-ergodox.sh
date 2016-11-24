@@ -32,7 +32,7 @@ DefaultMap="base lcdFuncMap"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="layer1 lcdFuncMap"
-PartialMaps[2]="numbers-homerow number-locks mediakeys-right-thumb lcdFuncMap"
+PartialMaps[2]="numbers-homerow mediakeys-right-thumb lcdFuncMap"
 PartialMaps[3]="intellij lcdFuncMap"
 PartialMaps[4]="tmux lcdFuncMap"
 
