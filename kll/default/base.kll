@@ -68,9 +68,9 @@ U"BACKSPACE" : U"LSHIFT";
 # B
 U"DELETE" : U"FUN1";
 # c
-U"LCTRL" : U"HOME";
+U"LCTRL" : U"LCK3";
 # d
-U"LALT" : U"END";
+U"LALT" : U"LCK4";
 # e
 U"HOME" : U"LSHIFT";
 # f
