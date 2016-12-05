@@ -1,0 +1,15 @@
+Name = "KB-Layer-1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Kalle Björklid";
+KLL = "0.3c";
+Date = "2016-05-07";
+Generator = "KIICONF 0.2";
+
+
+U"Y" : U"RAlt" + U"7";                          # |
+U"I" : U"RAlt" + U"SHIFT" + U"7";               # \
+U"E" : U"RAlt" + U"SHIFT" + U"8";               # {
+U"R" : U"RAlt" + U"SHIFT" + U"9";               # }
+
