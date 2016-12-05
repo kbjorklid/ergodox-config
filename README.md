@@ -8,6 +8,8 @@
 
 ## Nordic Keyboard Mappings
 
+### PC
+
 ```
 ( : U"LShift" + U"8";
 ) : U"LShift" + U"9";
@@ -46,6 +48,14 @@ _ : U"LShift" + U"SLASH"
 ä : U"QUOTE"
 ö : U"SEMICOLON"
 ```
+
+### MAC (Differences to PC only)
+{ : U"RAlt" + U"7";
+} : U"RAlt" + U"0";
+| : U"RAlt" + U"ISO/";
+\ : U"LShift" + U"7";
+Home: ???
+End: ???
 
 ## Resources for Infinity Ergodox
 
