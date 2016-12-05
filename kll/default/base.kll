@@ -28,7 +28,7 @@ U"E" : U"E";
 U"R" : U"R";
 U"T" : U"T";
 # First tall button
-U"FUNCTION1" : U"LCK1";
+#U"FUNCTION1" : U"LCK1";
 
 # THIRD ROW
 U"TAB" : U"FUN2";
@@ -46,14 +46,14 @@ U"C" : U"C";
 U"V" : U"V";
 U"B" : U"B";
 # Second tall button
-U"FUNCTION2" : U"FUN3";
+U"FUNCTION2" : U"HOME";
 
 # FIFTH ROW
 U"LGUI" : U"LCTRL";
 U"BACKTICK" : U"LGUI";
 U"FUNCTION3" : U"LALT";
-U"FUNCTION4" : U"LCTRL" + U"LALT";
-U"FUNCTION5" : U"HOME";
+#U"FUNCTION4" : U"LCTRL" + U"LALT";
+U"FUNCTION5" : U"FUN2";
 
 #THUMB CLUSTER
 #     +---+---+
@@ -68,9 +68,9 @@ U"BACKSPACE" : U"LSHIFT";
 # B
 U"DELETE" : U"FUN1";
 # c
-U"LCTRL" : U"HOME";
+U"LCTRL" : U"LCK3";
 # d
-U"LALT" : U"END";
+U"LALT" : U"LCK4";
 # e
 U"HOME" : U"LSHIFT";
 # f
@@ -112,7 +112,7 @@ U"QUOTE" : U"QUOTE";
 
 # FOURTH ROW
 # Second tall button
-U"FUNCTION7" : U"LSHIFT" + U"LCTRL" + U"LALT";
+U"FUNCTION7" : U"END";
 U"N" : U"N";
 U"M" : U"M";
 U"COMMA" : U"COMMA";
@@ -121,8 +121,8 @@ U"SLASH" : U"SLASH";
 U"RSHIFT" : None;
 
 # FIFTH ROW
-U"LEFT" : U"END";
-U"DOWN" : U"LCTRL" + U"LALT";
+U"LEFT" : U"FUN2";
+#U"DOWN" : U"LCTRL" + U"LALT";
 U"UP" : U"RALT";
 U"RIGHT" : U"RGUI";
 U"RGUI" : U"RCTRL";
@@ -140,9 +140,9 @@ U"SPACE" : U"SPACE";
 # B
 U"ENTER" : U"ENTER";
 # c
-U"RCTRL" : U"PAGEDOWN";
+U"RCTRL" : U"LCTRL" + U"S", U"RAlt" + U"8"; # CTRL-S, [
 # d
-U"RALT" : U"PAGEUP";
+U"RALT" : U"LCTRL" + U"S";
 # e
 U"PAGEUP" : U"LSHIFT";
 # f
