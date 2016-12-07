@@ -12,7 +12,7 @@ Generator = "KIICONF 0.2";
 # =========
 
 # FIRST ROW
-U"EQUALS" : U"EQUALS";
+U"EQUALS" : U"LCK5"; # Lock Mac overlay
 U"1" : U"1";
 U"3" : U"3";
 U"2" : U"2";
