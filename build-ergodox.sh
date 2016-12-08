@@ -35,8 +35,8 @@ PartialMaps[1]="layer1 lcdFuncMap"
 PartialMaps[2]="numbers-homerow mediakeys-right-thumb lcdFuncMap"
 PartialMaps[3]="intellij lcdFuncMap"
 PartialMaps[4]="function-keys lcdFuncMap"
-PartialMaps[5]="base-mac-overlay"
-PartialMaps[6]="layer1 mac-symbols-overlay"
+PartialMaps[5]="base-mac-overlay lcdFuncMap"
+PartialMaps[6]="mac-symbols lcdFuncMap"
 
 ##########################
 # Advanced Configuration #
