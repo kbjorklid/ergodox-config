@@ -1,0 +1,153 @@
+Name = "KB-Layer-1";
+Layout = "Default";
+Base = "Blank";
+Version = "0.1";
+Author = "Kalle Björklid";
+KLL = "0.3c";
+Date = "2016-05-07";
+Generator = "KIICONF 0.2";
+
+
+
+
+# =========
+# LEFT SIDE
+# =========
+
+# FIRST ROW
+U"EQUALS" : U"EQUALS";
+U"1" : U"F1";
+U"2" : U"F2";
+U"3" : U"F3";
+U"4" : U"F4";
+U"5" : U"F5";
+U"ESC" : U"F11";
+
+# SECOND ROW
+#U"BACKSLASH" : U"TAB";
+U"Q" : U"LShift" + U"1";                    # !
+U"W" : U"LShift" + U"3";                    # #
+U"E" : U"RAlt" + U"SHIFT" + U"8";               # {
+U"R" : U"RAlt" + U"SHIFT" + U"9";               # }
+U"T" : U"BACKSLASH";                        # '
+# First tall button
+#U"FUNCTION1" : U"LCK1";
+
+# THIRD ROW
+#U"TAB" : U"FUN2";
+U"A" : U"RAlt" + U"2";                      # @
+U"S" : U"RAlt" + U"4";                      # $
+U"D" : U"LShift" + U"8";                    # (
+U"F" : U"LShift" + U"9";                    # )
+U"G" : U"LShift" + U"2";                    # "
+
+# FOURTH ROW
+# U"LSHIFT" : U"LSHIFT";
+U"Z" : U"ISO/";                             # <
+U"X" : U"LShift" + U"ISO/";                 # >
+U"C" : U"RAlt" + U"8";                      # [
+U"V" : U"RAlt" + U"9";                      # ]
+U"B" : U"LShift" + U"EQUALS", U"SPACE";     # backtick
+#Second tall button
+U"FUNCTION2" : U"PAGEUP";
+
+# FIFTH ROW
+# U"LGUI" : U"LCTRL";
+# U"BACKTICK" : U"LGUI";
+# U"FUNCTION3" : U"LALT";
+# U"FUNCTION4" : U"LALT" + U"LCTRL";
+# U"FUNCTION5" : U"HOME";
+
+#THUMB CLUSTER
+#     +---+---+
+#     | c | d |
+# +---+---+---+
+# |   |   | e |
+# | A | B .---.
+# |   |   | f |
+# +---+---+---h
+# A
+# U"BACKSPACE" : U"LSHIFT";
+# B
+# U"DELETE" : U"FUN1";
+# c
+# U"LCTRL" : U"HOME";
+# d
+# U"LALT" : U"END";
+# e
+# U"HOME" : U"LSHIFT";
+# f
+# U"END" : U"LCTRL";
+
+# ==========
+# RIGHT SIDE
+# ==========
+
+# FIRST ROW
+U"FUNCTION6" : U"F12";
+U"6" : U"F6";
+U"7" : U"F7";
+U"8" : U"F8";
+U"9" : U"F9";
+U"0" : U"F10";
+# U"MINUS" : U"LCtrl" + U"S", U"RAlt" + U"8";
+
+
+# SECOND ROW
+# First tall button
+U"LBRACE" : U"DELETE";
+
+U"Y" : U"RAlt" + U"7";                          # |
+U"U" : U"RShift" + U"7";                        # /
+U"I" : U"RAlt" + U"SHIFT" + U"7";               # \
+U"O" : U"RALT" + U"RBRACE", U"SPACE";           # ~
+U"P" : U"RShift" + U"RBRACE", U"SPACE";         # ^
+#U"RBRACE" : U"RALT" + U"RBRACE", U"SPACE";
+
+
+# THIRD ROW
+U"H" : U"LEFT";
+U"J" : U"DOWN";
+U"K" : U"UP";
+U"L" : U"RIGHT";
+U"SEMICOLON" : U"LShift" + U"BACKSLASH";  # *
+U"QUOTE" :U"LShift" + U"5";      # %
+
+
+
+# FOURTH ROW
+# Second tall button
+U"FUNCTION7" : U"PAGEDOWN";
+U"N" : U"LSHIFT" + U"6";                        # &
+U"M" : U"LSHIFT" + U"0";                        # =
+U"COMMA" : U"END", U"LShift" + U"COMMA";        # Go to end of line then enter ;
+U"PERIOD" : U"LShift" + U"MINUS";               # ?
+U"SLASH" : U"MINUS";                            # +
+#U"RSHIFT" : U"RSHIFT";
+
+# FIFTH ROW
+#U"LEFT" : U"END";
+#U"DOWN" : U"LALT" + U"LCTRL";
+#U"UP" : U"RALT";
+#U"RIGHT" : U"RIGHT";
+#U"RGUI" : U"RGUI";
+
+#THUMB CLUSTER
+# +---+---+
+# | d | c |
+# +---+---+---+
+# | e |   |   |
+# +---+ B | A |
+# | f |   |   |
+# +---+---+---+
+# A
+U"SPACE" : U"END", U"SPACE";
+# B
+U"ENTER" : U"END", U"ENTER";
+# c
+# U"RCTRL" : U"LCTRL" + U"S", U"RAlt" + U"8";  #CTRL-S, [;
+# d
+# U"RALT" : U"LCTRL" + U"S";
+# e
+#U"PAGEUP" : U"LSHIFT";
+# f
