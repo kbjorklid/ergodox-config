@@ -50,12 +50,14 @@ _ : U"LShift" + U"SLASH"
 ```
 
 ### MAC (Differences to PC only)
+```
 { : U"RAlt" + U"7";
 } : U"RAlt" + U"0";
 | : U"RAlt" + U"ISO/";
 \ : U"LShift" + U"7";
 Home: ???
 End: ???
+```
 
 ## Resources for Infinity Ergodox
 
